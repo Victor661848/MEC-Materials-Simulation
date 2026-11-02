@@ -25,8 +25,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         body { font-family: 'Inter', sans-serif; background-color: #0b0f19; color: #f8fafc; }
+st.markdown("""
+    <style>
         canvas { display: block; width: 100%; height: 100%; border-radius: 0.75rem; background: #070a12; }
     </style>
+""", unsafe_allow_html=True)    </style>
 </head>
 <body class="min-h-screen flex flex-col">
 
