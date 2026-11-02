@@ -48,8 +48,7 @@ st.markdown("""
         </div>
         <div class="flex items-center space-x-3 mt-2 sm:mt-0">
             <span class="px-3 py-1 bg-cyan-950/80 border border-cyan-800/50 text-cyan-400 text-xs font-semibold rounded-full animate-pulse">
-                ● Live Molecular Simulation Active
-            </span>
+st.subheader("● Live Molecular Simulation Active")            </span>
         </div>
     </header>
 
