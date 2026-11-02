@@ -37,7 +37,7 @@ st.markdown("""
     <header class="border-b border-borderCol bg-panelBg/80 backdrop-blur sticky top-0 z-50 px-6 py-4 flex flex-wrap justify-between items-center shadow-lg">
         <div class="flex items-center space-x-3">
             <div class="bg-gradient-to-tr from-cyan-500 to-emerald-400 p-2.5 rounded-xl shadow-md shadow-cyan-500/20 text-darkBg font-black text-xl">
-                ⚡
+                st.markdown("⚡ Fast-charging anode enabled!")  # Correct: inside quotes
             </div>
             <div>
                 <h1 class="text-xl font-bold tracking-tight bg-gradient-to-r from-cyan-400 to-emerald-400 bg-clip-text text-transparent">
